@@ -1,11 +1,7 @@
 body {
-    background-color: #FF0000;
+    background-color: #dfdfdf;
 }
 
-h3 {
-    color: #00FF00;
-}
-
-.logo{
-    width: 250px;
+p {
+    color: #222222;
 }
